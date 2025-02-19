@@ -1,0 +1,7 @@
+echo "# board_project_plc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Duongpham100/board_project_plc.git
+git push -u origin main
